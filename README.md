@@ -1,2 +1,2 @@
 # PDF-Scanner
-Scrapes texts from PDF's, as well as decrypts themif needed
+Scrapes texts from PDF's, as well as decrypts them if needed
